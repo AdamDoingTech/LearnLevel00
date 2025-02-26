@@ -1,5 +1,5 @@
 
-# Practice01 - Java Basics
+# Level00 - Java Basics
 This is a beginner-level Java project to practice and master the fundamentals of Java, including:
 - Variables and Data Types (`int`, `double`, `char`, `boolean`)
 - Arithmetic Operations (`+`, `-`, `*`, `/`, `%`)
@@ -12,10 +12,18 @@ This is a beginner-level Java project to practice and master the fundamentals of
 
 ## 📂 **Project Structure**
 ```
-level00/
-├── Practice01.java
-├──	TestOne.java
-├── Challenge01.java
+Level00/
+├── src/
+│   └── level00/
+│       → Practice01.java
+│       → Challenge01.java
+|		→ TestOne.java
+├── bin/
+│   └── level00/
+│       → Practice01.class
+│       → Challenge01.class
+|		→ TestOne.class
+├── .gitignore
 ├── README.md
 └── LICENSE
 ```

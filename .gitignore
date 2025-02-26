@@ -1,0 +1,12 @@
+# Compiled class files
+bin/
+
+# macOS specific files
+.DS_Store
+
+# VSCode specific files (optional)
+.vscode/
+
+# General Java IDE specific files
+*.iml
+.idea/
