@@ -15,14 +15,14 @@ This is a beginner-level Java project to practice and master the fundamentals of
 Level00/
 ├── src/
 │   └── level00/
-│       → Practice01.java
-│       → Challenge01.java
-|		→ TestOne.java
+│	→ Practice01.java
+│	→ Challenge01.java
+|	→ TestOne.java
 ├── bin/
 │   └── level00/
-│       → Practice01.class
-│       → Challenge01.class
-|		→ TestOne.class
+│	→ Practice01.class
+│	→ Challenge01.class
+|	→ TestOne.class
 ├── .gitignore
 ├── README.md
 └── LICENSE
