@@ -1,3 +1,5 @@
+package level00;
+
 import java.util.Scanner;
 
 public class TestOne {

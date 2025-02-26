@@ -1,3 +1,5 @@
+package level00;
+
 import java.util.Arrays;
 
 public class Practice01 {
