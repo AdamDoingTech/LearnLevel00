@@ -1,4 +1,3 @@
-
 # Level00 - Java Basics
 This is a beginner-level Java project to practice and master the fundamentals of Java, including:
 - Variables and Data Types (`int`, `double`, `char`, `boolean`)
